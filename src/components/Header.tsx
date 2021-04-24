@@ -1,14 +1,23 @@
 import React from 'react';
 import {StyleSheet, Text, Image, View, TouchableOpacity, TouchableOpacityProps} from 'react-native';
+import { getStatusBarHeight} from 'react-native-iphone-x-helper';
 
+import userImg from '../assets/felipe.jpg';
 import colors from '../styles/colors';
 import fonts from '../styles/fonts';
 
 export function Header(){
   return(
     <View style={styles.container}>
+      <View>
+        <Text style={styles.greeting}>Olá</Text>
+        <Text style={styles.userName}>Felipe</Text>
+      </View>
 
+      <Image source={userImg} style={styles.image}/>
     </View>
+
+    
   )
 }
 
@@ -18,7 +27,26 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     justifyContent: 'space-between',
     alignItems: 'center',
-    padding: 20,
-    backgroundColor: colors.red
+    //padding: 20, nao precisa pois foi colocado no header plantselect
+    paddingVertical: 20,
+    marginTop: getStatusBarHeight(),
+    //backgroundColor: colors.red
+  },
+  image:{
+    width: 70,
+    height: 70,
+    borderRadius: 40,
+  },
+  greeting:{
+    fontSize: 32,
+    color: colors.heading,
+    fontFamily: fonts.text,
+
+  },
+  userName: {
+    fontSize:32,
+    fontFamily: fonts.heading,
+    color: colors.heading,
+    lineHeight: 40
   }
 })
