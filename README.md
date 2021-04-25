@@ -1,14 +1,9 @@
-﻿<<p align="center">
-<img src="/assets/splash.png" width="100"/>
-
-</p>
-
-# <img src="/assets/splash.png" width="100"/> PlantManager
+#  PlantManager
 
 [![Author](https://img.shields.io/badge/author-Felipe%20Lima-red)](https://github.com/felipelhol)
 
 <br />
-<p align="center"><img src="/assets/plantmanager-preview.png?raw=true"/></p>
+<p align="center"><img src="/assets/plantmanager-preview.png"/></p>
 
 # :pushpin: Table of Contents
 
