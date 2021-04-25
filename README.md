@@ -5,10 +5,10 @@
 <br />
 
 <p align="center">
-<img src="/src/assets/plantmanager-preview.png" />
+<img src="/src/assets/plantmanager-preview.png?raw=true" />
 
 </p>
-![planmanager](/assets/splash.png?raw=true)
+
 
 # :pushpin: Table of Contents
 
