@@ -1,5 +1,10 @@
 #  PlantManager
 
+<<p align="center">
+<img src="/src/assets/plantmanager-preview.png/>
+
+</p>
+
 [![Author](https://img.shields.io/badge/author-Felipe%20Lima-red)](https://github.com/felipelhol)
 
 <br />
