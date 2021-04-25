@@ -1,4 +1,5 @@
 import React from 'react';
+import {Platform} from 'react-native';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import colors from '../styles/colors';
 import { PlantSelect } from '../pages/PlantSelect';
@@ -15,7 +16,7 @@ const AuthRoutes = () => {
           inactiveTintColor: colors.heading,
           labelPosition: 'beside-icon',
           style:{
-            paddingVertical: 20,
+            paddingVertical: Platform.OS === 'ios' ? 20 : 0,
             height: 88
           },
         }}>
@@ -33,7 +34,7 @@ const AuthRoutes = () => {
             }}
           />
           <AppTab.Screen 
-            name="Minhas Planta"
+            name="Minhas Plantas"
             component={MyPlants}
             options={{
               tabBarIcon:(({ size, color}) => (
