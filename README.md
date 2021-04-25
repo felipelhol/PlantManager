@@ -1,5 +1,5 @@
 ﻿<<p align="center">
-<img src="/assets/splash.png" width="10"/>
+<img src="/assets/splash.png" width="100"/>
 
 </p>
 
