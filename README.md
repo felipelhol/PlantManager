@@ -3,6 +3,7 @@
 [![Author](https://img.shields.io/badge/author-Felipe%20Lima-red)](https://github.com/felipelhol)
 
 <br />
+
 <p align="center"><img src="/assets/plantmanager-preview.png"/></p>
 
 # :pushpin: Table of Contents
