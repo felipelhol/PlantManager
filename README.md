@@ -6,8 +6,9 @@
 
 <p align="center">
 <img src="/src/assets/plantmanager-preview.png" />
-![](/assets/splash.png?raw=true)
+
 </p>
+(/assets/splash.png?raw=true)
 
 # :pushpin: Table of Contents
 
