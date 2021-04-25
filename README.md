@@ -4,7 +4,7 @@
 
 <br />
 
-<p align="center"><img src="/assets/plantmanager-preview.png"/></p>
+<p align="center"><img src="/assets/plantmanager-preview.png" width="200"/></p>
 
 # :pushpin: Table of Contents
 
