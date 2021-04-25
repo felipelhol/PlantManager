@@ -10,7 +10,8 @@
 <br />
 
 <p align="center">
-<img src="/src/assets/plantmanager-preview.png"/>
+<img src="/src/assets/plantmanager-preview.png" />
+
 </p>
 
 # :pushpin: Table of Contents
