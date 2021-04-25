@@ -8,7 +8,7 @@
 <img src="/src/assets/plantmanager-preview.png" />
 
 </p>
-(/assets/splash.png?raw=true)
+![planmanager](/assets/splash.png?raw=true)
 
 # :pushpin: Table of Contents
 
