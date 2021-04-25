@@ -1,6 +1,6 @@
 #  PlantManager
 
-<<p align="center">
+<p align="center">
 <img src="/src/assets/plantmanager-preview.png/>
 
 </p>
