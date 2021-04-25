@@ -3,7 +3,7 @@
 
 </p>
 
-# PlantManager
+# <img src="/assets/splash.png" width="100"/> PlantManager
 
 [![Author](https://img.shields.io/badge/author-Felipe%20Lima-red)](https://github.com/felipelhol)
 
